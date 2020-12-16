@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Dils. I am a software engineer from Tashkent Uzbekistan.
+
 <!--
 **DilsMatchanov/dilsmatchanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
